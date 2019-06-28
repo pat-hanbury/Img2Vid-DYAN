@@ -1,0 +1,6 @@
+[submodule "PerceptualSimilarity"]
+	path = PerceptualSimilarity
+	url = https://github.com/richzhang/PerceptualSimilarity.git
+[submodule "seg2vid"]
+	path = seg2vid
+	url = https://github.com/junting/seg2vid.git
