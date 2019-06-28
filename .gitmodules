@@ -4,3 +4,6 @@
 [submodule "DYAN"]
 	path = DYAN
 	url = https://github.com/pat-hanbury/DYAN.git
+[submodule "seg2vid"]
+	path = seg2vid
+	url = https://github.com/pat-hanbury/seg2vid.git
