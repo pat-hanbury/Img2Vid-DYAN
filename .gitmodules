@@ -1,0 +1,6 @@
+[submodule "PerceptualSimilarity"]
+	path = PerceptualSimilarity
+	url = https://github.com/pat-hanbury/PerceptualSimilarity.git
+[submodule "DYAN"]
+	path = DYAN
+	url = https://github.com/pat-hanbury/DYAN.git
